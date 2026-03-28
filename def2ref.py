@@ -153,7 +153,7 @@ class Def2Ref_OT_Operator(Operator):
             pose_bones[deff].color.custom.normal = (0.518,0.4,0.196)
             pose_bones[deff].color.custom.select = (0.859,0.773,0.380)
             pose_bones[deff].color.custom.active = (1.0,0.973,0.369)
-            pose_bones[deff].bone.hide_select = True
+            #pose_bones[deff].bone.hide_select = True
             #arm.collections_all["Deformer"].assign(pose_bones[deff])
             def_collection.assign(pose_bones[deff])
             

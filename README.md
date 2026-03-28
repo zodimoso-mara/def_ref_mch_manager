@@ -9,3 +9,4 @@ You can even press def to ref to convert you defformation skeleton to a reffence
 
 ![Screencast_20260328_173006](https://github.com/user-attachments/assets/91feca34-8637-4201-a22e-77043a1225a3)
 
+![Screencast_20260328_190311](https://github.com/user-attachments/assets/7edc3738-6ad2-4d1b-8006-777256a0f9d4)

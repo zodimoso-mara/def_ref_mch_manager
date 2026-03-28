@@ -1,5 +1,5 @@
 # def_ref_mch_manager
-Blender addon that helps organize major bone types.
+Blender 5.1 addon that helps organize major bone types.
 
 <img width="270" height="265" alt="image" src="https://github.com/user-attachments/assets/8071629c-ed05-4fca-9d6a-d7e01d7bdda9" />
 

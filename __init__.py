@@ -15,7 +15,7 @@ bl_info = {
 	"name": "Def2Ref",
 	"author": "Marilyn M. Cere",
 	"version": (1, 0, 0),
-	"blender": (4, 4, 3),
+	"blender": (5, 1, 0),
 	"description": "Create reference bones from deformation bones and constrain them aproprietly",
 	"location": "",
 	"warning": "",
